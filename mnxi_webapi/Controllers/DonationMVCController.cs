@@ -94,29 +94,35 @@ namespace mnxi_webapi.Controllers
 
 
               //  var dt = new DateTime(2014, 07, 25, 0, 0 ,0);
-                var res = from m in _db.vw_donationsummary where (m.tran_date > dtStart && m.tran_date < dtEnd) select m;
+                var res = from m in _db.vw_donationsummary where (m.tran_date > dtStart && m.tran_date < dtEnd && m.CategoryTypeName.Equals("Donation")) select m;
+
                 //  res = from n in _db.vw_donationsummary where (n.tran_date < dtEnd) select n;
                 //if (CategoryName != "") {
 
                 //    res = from k in res where k.CategoryName == CategoryName select k;
                 //}
 
-                if (CategoryTypeName != "")
-                {
+                //if (CategoryTypeName != "")
+                //{
 
-                    res = from k in res where k.CategoryTypeName == CategoryTypeName select k;
-                }
+                //    res = from k in res where k.CategoryTypeName == CategoryTypeName select k;
+                //}
 
                 //{
 
                 //   
 
                 //}
-
+                var nme="";
                 var res2 = res;
                 var count = res2.ToList().Count();
-                var results = res.Distinct().OrderBy(n=>n.tran_date).Skip(skip ).Take(take).ToList();
+                var results = res.OrderBy(n=>n.tran_date).Skip(skip ).Take(take).ToList();
 
+                foreach(var r in results)
+                {
+
+                    nme=  r.DevoteeName;
+                }
 
                 return Json(new { Result = "OK", TotalRecordCount = count, Records = results }, JsonRequestBehavior.AllowGet);
             }
