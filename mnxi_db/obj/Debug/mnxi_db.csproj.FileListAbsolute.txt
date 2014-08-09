@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\mnxi_db.dll.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\mnxi_db.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\mnxi_db.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\obj\Debug\mnxi_db.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_db\obj\Debug\mnxi_db.pdb

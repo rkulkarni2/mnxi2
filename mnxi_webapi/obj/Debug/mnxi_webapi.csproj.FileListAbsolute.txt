@@ -1,0 +1,61 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\mnxi_webapi.dll.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\mnxi_webapi.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\mnxi_webapi.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\Antlr3.Runtime.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\mnxi_db.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Net.Http.Formatting.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Helpers.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Http.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Http.WebHost.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Mvc.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Optimization.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Razor.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\WebGrease.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\mnxi_db.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Net.Http.Formatting.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Helpers.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Http.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Http.WebHost.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Mvc.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Optimization.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.Razor.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\bin\Antlr3.Runtime.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\obj\Debug\mnxi_webapi.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\obj\Debug\mnxi_webapi.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\WebApplication7\mnxi_webapi\obj\Debug\mnxi_webapi.pdb
+C:\mnxi2\mnxi_webapi\bin\mnxi_webapi.dll.config
+C:\mnxi2\mnxi_webapi\bin\mnxi_webapi.dll
+C:\mnxi2\mnxi_webapi\bin\mnxi_webapi.pdb
+C:\mnxi2\mnxi_webapi\bin\Microsoft.Web.Infrastructure.dll
+C:\mnxi2\mnxi_webapi\bin\mnxi_db.dll
+C:\mnxi2\mnxi_webapi\bin\Newtonsoft.Json.dll
+C:\mnxi2\mnxi_webapi\bin\mnxi_db.pdb
+C:\mnxi2\mnxi_webapi\bin\EntityFramework.xml
+C:\mnxi2\mnxi_webapi\bin\EntityFramework.SqlServer.xml
+C:\mnxi2\mnxi_webapi\bin\Microsoft.Web.Infrastructure.xml
+C:\mnxi2\mnxi_webapi\bin\System.Net.Http.Formatting.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Helpers.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Http.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Http.WebHost.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Mvc.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Optimization.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.Razor.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.WebPages.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.WebPages.Deployment.xml
+C:\mnxi2\mnxi_webapi\bin\System.Web.WebPages.Razor.xml
+C:\mnxi2\mnxi_webapi\bin\Antlr3.Runtime.pdb
+C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.csprojResolveAssemblyReference.cache
+C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.dll
+C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.pdb

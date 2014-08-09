@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MTSTXModelStoreContainer" CdmEntityContainer="MTSTXEntities">
+    <EntitySetMapping Name="vw_donationsummary">
+      <EntityTypeMapping TypeName="MTSTXModel.vw_donationsummary">
+        <MappingFragment StoreEntitySet="vw_donationsummary">
+          <ScalarProperty Name="No" ColumnName="No" />
+          <ScalarProperty Name="TransactionId" ColumnName="TransactionId" />
+          <ScalarProperty Name="CategoryServiceId" ColumnName="CategoryServiceId" />
+          <ScalarProperty Name="tran_date" ColumnName="tran_date" />
+          <ScalarProperty Name="CategoryTypeName" ColumnName="CategoryTypeName" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="ServiceName" ColumnName="ServiceName" />
+          <ScalarProperty Name="Serv_Id" ColumnName="Serv_Id" />
+          <ScalarProperty Name="serv_code" ColumnName="serv_code" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+          <ScalarProperty Name="TransactionTime" ColumnName="TransactionTime" />
+          <ScalarProperty Name="DevoteeName" ColumnName="DevoteeName" />
+          <ScalarProperty Name="CollectedBy" ColumnName="CollectedBy" />
+          <ScalarProperty Name="OnBehalfOf" ColumnName="OnBehalfOf" />
+          <ScalarProperty Name="Tran_mode" ColumnName="Tran_mode" />
+          <ScalarProperty Name="ApprovalNumber" ColumnName="ApprovalNumber" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+          <ScalarProperty Name="ReturnedAmount" ColumnName="ReturnedAmount" />
+          <ScalarProperty Name="RepaymentAmount" ColumnName="RepaymentAmount" />
+          <ScalarProperty Name="RefundedAmount" ColumnName="RefundedAmount" />
+          <ScalarProperty Name="ReceiptNumber" ColumnName="ReceiptNumber" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+          <ScalarProperty Name="RunningId_sc_tran_id_Trans" ColumnName="RunningId_sc_tran_id_Trans" />
+          <ScalarProperty Name="PayType" ColumnName="PayType" />
+          <ScalarProperty Name="SCid" ColumnName="SCid" />
+          <ScalarProperty Name="Is_kiosk" ColumnName="Is_kiosk" />
+          <ScalarProperty Name="GrdTotal" ColumnName="GrdTotal" />
+          <ScalarProperty Name="Mode" ColumnName="Mode" />
+          <ScalarProperty Name="DeleteAmt" ColumnName="DeleteAmt" />
+          <ScalarProperty Name="Bankcharges" ColumnName="Bankcharges" />
+          <ScalarProperty Name="donationstatus" ColumnName="donationstatus" />
+          <ScalarProperty Name="OldReceiptNumber" ColumnName="OldReceiptNumber" />
+          <ScalarProperty Name="Receiptnumberfilter" ColumnName="Receiptnumberfilter" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_PoojaBooking">
+      <EntityTypeMapping TypeName="MTSTXModel.vw_PoojaBooking">
+        <MappingFragment StoreEntitySet="vw_PoojaBooking">
+          <ScalarProperty Name="business_date" ColumnName="business_date" />
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="IsDeleted" ColumnName="IsDeleted" />
+          <ScalarProperty Name="Sche_Id" ColumnName="Sche_Id" />
+          <ScalarProperty Name="DevoteeName" ColumnName="DevoteeName" />
+          <ScalarProperty Name="PerformedDate" ColumnName="PerformedDate" />
+          <ScalarProperty Name="ScheduledDate" ColumnName="ScheduledDate" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="AssignedPriest" ColumnName="AssignedPriest" />
+          <ScalarProperty Name="ServiceName" ColumnName="ServiceName" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="EmailId" ColumnName="EmailId" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Natshatra" ColumnName="Natshatra" />
+          <ScalarProperty Name="gothra" ColumnName="gothra" />
+          <ScalarProperty Name="CollectedBy" ColumnName="CollectedBy" />
+          <ScalarProperty Name="Mode" ColumnName="Mode" />
+          <ScalarProperty Name="Approval" ColumnName="Approval" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="Receipt" ColumnName="Receipt" />
+          <ScalarProperty Name="notes" ColumnName="notes" />
+          <ScalarProperty Name="SCId" ColumnName="SCId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="time" ColumnName="time" />
+          <ScalarProperty Name="sche_date" ColumnName="sche_date" />
+          <ScalarProperty Name="start_time" ColumnName="start_time" />
+          <ScalarProperty Name="end_time" ColumnName="end_time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vw_TransactionByNameType">
+      <EntityTypeMapping TypeName="MTSTXModel.vw_TransactionByNameType">
+        <MappingFragment StoreEntitySet="vw_TransactionByNameType">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="TransactionDate" ColumnName="TransactionDate" />
+          <ScalarProperty Name="realchecknumber" ColumnName="realchecknumber" />
+          <ScalarProperty Name="TransactionType" ColumnName="TransactionType" />
+          <ScalarProperty Name="TotalItems" ColumnName="TotalItems" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="m_category">
+      <EntityTypeMapping TypeName="MTSTXModel.m_category">
+        <MappingFragment StoreEntitySet="m_category">
+          <ScalarProperty Name="QBEditSequence" ColumnName="QBEditSequence" />
+          <ScalarProperty Name="QBListID" ColumnName="QBListID" />
+          <ScalarProperty Name="Mode" ColumnName="Mode" />
+          <ScalarProperty Name="RequestStatus" ColumnName="RequestStatus" />
+          <ScalarProperty Name="RequestID" ColumnName="RequestID" />
+          <ScalarProperty Name="is_location" ColumnName="is_location" />
+          <ScalarProperty Name="cate_des" ColumnName="cate_des" />
+          <ScalarProperty Name="modifiedon" ColumnName="modifiedon" />
+          <ScalarProperty Name="modifiedby" ColumnName="modifiedby" />
+          <ScalarProperty Name="createdon" ColumnName="createdon" />
+          <ScalarProperty Name="createdby" ColumnName="createdby" />
+          <ScalarProperty Name="onlyforadmin" ColumnName="onlyforadmin" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="notes" ColumnName="notes" />
+          <ScalarProperty Name="is_appl_yearenddona" ColumnName="is_appl_yearenddona" />
+          <ScalarProperty Name="cate_code" ColumnName="cate_code" />
+          <ScalarProperty Name="cate_name" ColumnName="cate_name" />
+          <ScalarProperty Name="cate_type_id" ColumnName="cate_type_id" />
+          <ScalarProperty Name="cate_id" ColumnName="cate_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="m_category_type">
+      <EntityTypeMapping TypeName="MTSTXModel.m_category_type">
+        <MappingFragment StoreEntitySet="m_category_type">
+          <ScalarProperty Name="QBEditSequence" ColumnName="QBEditSequence" />
+          <ScalarProperty Name="QBListID" ColumnName="QBListID" />
+          <ScalarProperty Name="Mode" ColumnName="Mode" />
+          <ScalarProperty Name="RequestStatus" ColumnName="RequestStatus" />
+          <ScalarProperty Name="RequestID" ColumnName="RequestID" />
+          <ScalarProperty Name="catetype_note" ColumnName="catetype_note" />
+          <ScalarProperty Name="catetype_desc" ColumnName="catetype_desc" />
+          <ScalarProperty Name="menu_id" ColumnName="menu_id" />
+          <ScalarProperty Name="modifiedon" ColumnName="modifiedon" />
+          <ScalarProperty Name="modifiedby" ColumnName="modifiedby" />
+          <ScalarProperty Name="createdon" ColumnName="createdon" />
+          <ScalarProperty Name="createdby" ColumnName="createdby" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="cate_type_code" ColumnName="cate_type_code" />
+          <ScalarProperty Name="cate_type_name" ColumnName="cate_type_name" />
+          <ScalarProperty Name="cate_type_id" ColumnName="cate_type_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
