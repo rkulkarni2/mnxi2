@@ -59,3 +59,5 @@ C:\mnxi2\mnxi_webapi\bin\Antlr3.Runtime.pdb
 C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.csprojResolveAssemblyReference.cache
 C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.dll
 C:\mnxi2\mnxi_webapi\obj\Debug\mnxi_webapi.pdb
+C:\mnxi2\mnxi_webapi\bin\EntityFramework.dll
+C:\mnxi2\mnxi_webapi\bin\EntityFramework.SqlServer.dll
